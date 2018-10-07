@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: ae982114fc6528d4386dc1614b600f5e
+timeCreated: 1538717906
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: //RootNode
+    100004: Blimp
+    100006: Building
+    100008: Building001
+    100010: Building002
+    100012: Building003
+    100014: Building004
+    100016: Building005
+    100018: Building006
+    100020: Building007
+    100022: Building008
+    100024: Building009
+    100026: Building010
+    100028: Building011
+    100030: Building012
+    100032: Building013
+    100034: Building014
+    100036: Building015
+    100038: Building016
+    100040: Building017
+    100042: Building018
+    100044: Building019
+    100046: Building020
+    100048: Building021
+    100050: Building022
+    100052: Building023
+    100054: Building024
+    100056: Building025
+    100058: Building026
+    100060: Building027
+    100062: Building028
+    100064: Building029
+    100066: Building030
+    100068: Building031
+    100070: Building032
+    100072: Building033
+    100074: Building034
+    100076: Building035
+    100078: Building036
+    100080: Building037
+    100082: Building038
+    100084: Building039
+    100086: Building040
+    100088: Building041
+    100090: Building042
+    100092: Building043
+    100094: Building044
+    100096: Building045
+    100098: Building046
+    100100: Building047
+    100102: Building048
+    100104: Building049
+    100106: Building050
+    100108: Building051
+    100110: Building052
+    100112: Building053
+    100114: Building054
+    100116: Building055
+    100118: Building056
+    100120: Building057
+    100122: Building058
+    100124: Building059
+    100126: Building060
+    100128: Building061
+    100130: Building062
+    100132: Building063
+    100134: Building064
+    100136: Building065
+    100138: Building066
+    100140: Building067
+    100142: Building068
+    100144: Building069
+    100146: Building070
+    100148: Building071
+    100150: Building072
+    100152: Building073
+    100154: Building074
+    100156: Building075
+    100158: Building076
+    100160: Building077
+    100162: Building078
+    100164: Building079
+    100166: Building080
+    100168: Building081
+    100170: Central Floor
+    100172: City Ground
+    100174: City Ground001
+    100176: City Ground002
+    100178: City Ground003
+    100180: City Ground004
+    100182: City Ground005
+    100184: City Ground006
+    100186: City Ground007
+    100188: Elevator Building
+    100190: Elevator Building001
+    100192: Elevator Shaft
+    100194: Enviromental Area
+    100196: Middle Floor
+    100198: Red Force Field
+    100200: Road
+    100202: Road Pillar
+    100204: Road Pillar002
+    100206: Road Pillar003
+    100208: Road Pillar004
+    100210: Road Pillar005
+    100212: Road Pillar006
+    100214: Road Pillar007
+    100216: Road Pillar008
+    100218: Road Pillar009
+    100220: Road Pillar010
+    100222: Road Pillar011
+    100224: Road Pillar012
+    100226: Road Pillar013
+    100228: Road Pillar014
+    100230: Road Pillar015
+    100232: Road Pillar016
+    100234: Road001
+    100236: Road002
+    100238: Road003
+    100240: Road004
+    100242: Road005
+    100244: Screen
+    100246: Sky Box
+    100248: Sky Box Entrance
+    100250: Sky Box Entrance001
+    100252: Sky Box001
+    100254: Spectators Stand
+    100256: Spire
+    100258: Spire001
+    100260: Spire002
+    100262: Spire003
+    100264: Terrain Divider 003
+    100266: Terrain Divider 1
+    400000: ' 1'
+    400002: //RootNode
+    400004: Blimp
+    400006: Building
+    400008: Building001
+    400010: Building002
+    400012: Building003
+    400014: Building004
+    400016: Building005
+    400018: Building006
+    400020: Building007
+    400022: Building008
+    400024: Building009
+    400026: Building010
+    400028: Building011
+    400030: Building012
+    400032: Building013
+    400034: Building014
+    400036: Building015
+    400038: Building016
+    400040: Building017
+    400042: Building018
+    400044: Building019
+    400046: Building020
+    400048: Building021
+    400050: Building022
+    400052: Building023
+    400054: Building024
+    400056: Building025
+    400058: Building026
+    400060: Building027
+    400062: Building028
+    400064: Building029
+    400066: Building030
+    400068: Building031
+    400070: Building032
+    400072: Building033
+    400074: Building034
+    400076: Building035
+    400078: Building036
+    400080: Building037
+    400082: Building038
+    400084: Building039
+    400086: Building040
+    400088: Building041
+    400090: Building042
+    400092: Building043
+    400094: Building044
+    400096: Building045
+    400098: Building046
+    400100: Building047
+    400102: Building048
+    400104: Building049
+    400106: Building050
+    400108: Building051
+    400110: Building052
+    400112: Building053
+    400114: Building054
+    400116: Building055
+    400118: Building056
+    400120: Building057
+    400122: Building058
+    400124: Building059
+    400126: Building060
+    400128: Building061
+    400130: Building062
+    400132: Building063
+    400134: Building064
+    400136: Building065
+    400138: Building066
+    400140: Building067
+    400142: Building068
+    400144: Building069
+    400146: Building070
+    400148: Building071
+    400150: Building072
+    400152: Building073
+    400154: Building074
+    400156: Building075
+    400158: Building076
+    400160: Building077
+    400162: Building078
+    400164: Building079
+    400166: Building080
+    400168: Building081
+    400170: Central Floor
+    400172: City Ground
+    400174: City Ground001
+    400176: City Ground002
+    400178: City Ground003
+    400180: City Ground004
+    400182: City Ground005
+    400184: City Ground006
+    400186: City Ground007
+    400188: Elevator Building
+    400190: Elevator Building001
+    400192: Elevator Shaft
+    400194: Enviromental Area
+    400196: Middle Floor
+    400198: Red Force Field
+    400200: Road
+    400202: Road Pillar
+    400204: Road Pillar002
+    400206: Road Pillar003
+    400208: Road Pillar004
+    400210: Road Pillar005
+    400212: Road Pillar006
+    400214: Road Pillar007
+    400216: Road Pillar008
+    400218: Road Pillar009
+    400220: Road Pillar010
+    400222: Road Pillar011
+    400224: Road Pillar012
+    400226: Road Pillar013
+    400228: Road Pillar014
+    400230: Road Pillar015
+    400232: Road Pillar016
+    400234: Road001
+    400236: Road002
+    400238: Road003
+    400240: Road004
+    400242: Road005
+    400244: Screen
+    400246: Sky Box
+    400248: Sky Box Entrance
+    400250: Sky Box Entrance001
+    400252: Sky Box001
+    400254: Spectators Stand
+    400256: Spire
+    400258: Spire001
+    400260: Spire002
+    400262: Spire003
+    400264: Terrain Divider 003
+    400266: Terrain Divider 1
+    2100000: No Name
+    2100002: 01 - Default
+    2100004: 02 - Default
+    2100006: 13 - Default
+    2100008: 09 - Default
+    2100010: 07 - Default
+    2100012: 08 - Default
+    2100014: 14 - Default
+    2300000: ' 1'
+    2300002: Blimp
+    2300004: Building
+    2300006: Building001
+    2300008: Building002
+    2300010: Building003
+    2300012: Building004
+    2300014: Building005
+    2300016: Building006
+    2300018: Building007
+    2300020: Building008
+    2300022: Building009
+    2300024: Building010
+    2300026: Building011
+    2300028: Building012
+    2300030: Building013
+    2300032: Building014
+    2300034: Building015
+    2300036: Building016
+    2300038: Building017
+    2300040: Building018
+    2300042: Building019
+    2300044: Building020
+    2300046: Building021
+    2300048: Building022
+    2300050: Building023
+    2300052: Building024
+    2300054: Building025
+    2300056: Building026
+    2300058: Building027
+    2300060: Building028
+    2300062: Building029
+    2300064: Building030
+    2300066: Building031
+    2300068: Building032
+    2300070: Building033
+    2300072: Building034
+    2300074: Building035
+    2300076: Building036
+    2300078: Building037
+    2300080: Building038
+    2300082: Building039
+    2300084: Building040
+    2300086: Building041
+    2300088: Building042
+    2300090: Building043
+    2300092: Building044
+    2300094: Building045
+    2300096: Building046
+    2300098: Building047
+    2300100: Building048
+    2300102: Building049
+    2300104: Building050
+    2300106: Building051
+    2300108: Building052
+    2300110: Building053
+    2300112: Building054
+    2300114: Building055
+    2300116: Building056
+    2300118: Building057
+    2300120: Building058
+    2300122: Building059
+    2300124: Building060
+    2300126: Building061
+    2300128: Building062
+    2300130: Building063
+    2300132: Building064
+    2300134: Building065
+    2300136: Building066
+    2300138: Building067
+    2300140: Building068
+    2300142: Building069
+    2300144: Building070
+    2300146: Building071
+    2300148: Building072
+    2300150: Building073
+    2300152: Building074
+    2300154: Building075
+    2300156: Building076
+    2300158: Building077
+    2300160: Building078
+    2300162: Building079
+    2300164: Building080
+    2300166: Building081
+    2300168: Central Floor
+    2300170: City Ground
+    2300172: City Ground001
+    2300174: City Ground002
+    2300176: City Ground003
+    2300178: City Ground004
+    2300180: City Ground005
+    2300182: City Ground006
+    2300184: City Ground007
+    2300186: Elevator Building
+    2300188: Elevator Building001
+    2300190: Elevator Shaft
+    2300192: Enviromental Area
+    2300194: Middle Floor
+    2300196: Red Force Field
+    2300198: Road
+    2300200: Road Pillar
+    2300202: Road Pillar002
+    2300204: Road Pillar003
+    2300206: Road Pillar004
+    2300208: Road Pillar005
+    2300210: Road Pillar006
+    2300212: Road Pillar007
+    2300214: Road Pillar008
+    2300216: Road Pillar009
+    2300218: Road Pillar010
+    2300220: Road Pillar011
+    2300222: Road Pillar012
+    2300224: Road Pillar013
+    2300226: Road Pillar014
+    2300228: Road Pillar015
+    2300230: Road Pillar016
+    2300232: Road001
+    2300234: Road002
+    2300236: Road003
+    2300238: Road004
+    2300240: Road005
+    2300242: Screen
+    2300244: Sky Box
+    2300246: Sky Box Entrance
+    2300248: Sky Box Entrance001
+    2300250: Sky Box001
+    2300252: Spectators Stand
+    2300254: Spire
+    2300256: Spire001
+    2300258: Spire002
+    2300260: Spire003
+    2300262: Terrain Divider 003
+    2300264: Terrain Divider 1
+    3300000: ' 1'
+    3300002: Blimp
+    3300004: Building
+    3300006: Building001
+    3300008: Building002
+    3300010: Building003
+    3300012: Building004
+    3300014: Building005
+    3300016: Building006
+    3300018: Building007
+    3300020: Building008
+    3300022: Building009
+    3300024: Building010
+    3300026: Building011
+    3300028: Building012
+    3300030: Building013
+    3300032: Building014
+    3300034: Building015
+    3300036: Building016
+    3300038: Building017
+    3300040: Building018
+    3300042: Building019
+    3300044: Building020
+    3300046: Building021
+    3300048: Building022
+    3300050: Building023
+    3300052: Building024
+    3300054: Building025
+    3300056: Building026
+    3300058: Building027
+    3300060: Building028
+    3300062: Building029
+    3300064: Building030
+    3300066: Building031
+    3300068: Building032
+    3300070: Building033
+    3300072: Building034
+    3300074: Building035
+    3300076: Building036
+    3300078: Building037
+    3300080: Building038
+    3300082: Building039
+    3300084: Building040
+    3300086: Building041
+    3300088: Building042
+    3300090: Building043
+    3300092: Building044
+    3300094: Building045
+    3300096: Building046
+    3300098: Building047
+    3300100: Building048
+    3300102: Building049
+    3300104: Building050
+    3300106: Building051
+    3300108: Building052
+    3300110: Building053
+    3300112: Building054
+    3300114: Building055
+    3300116: Building056
+    3300118: Building057
+    3300120: Building058
+    3300122: Building059
+    3300124: Building060
+    3300126: Building061
+    3300128: Building062
+    3300130: Building063
+    3300132: Building064
+    3300134: Building065
+    3300136: Building066
+    3300138: Building067
+    3300140: Building068
+    3300142: Building069
+    3300144: Building070
+    3300146: Building071
+    3300148: Building072
+    3300150: Building073
+    3300152: Building074
+    3300154: Building075
+    3300156: Building076
+    3300158: Building077
+    3300160: Building078
+    3300162: Building079
+    3300164: Building080
+    3300166: Building081
+    3300168: Central Floor
+    3300170: City Ground
+    3300172: City Ground001
+    3300174: City Ground002
+    3300176: City Ground003
+    3300178: City Ground004
+    3300180: City Ground005
+    3300182: City Ground006
+    3300184: City Ground007
+    3300186: Elevator Building
+    3300188: Elevator Building001
+    3300190: Elevator Shaft
+    3300192: Enviromental Area
+    3300194: Middle Floor
+    3300196: Red Force Field
+    3300198: Road
+    3300200: Road Pillar
+    3300202: Road Pillar002
+    3300204: Road Pillar003
+    3300206: Road Pillar004
+    3300208: Road Pillar005
+    3300210: Road Pillar006
+    3300212: Road Pillar007
+    3300214: Road Pillar008
+    3300216: Road Pillar009
+    3300218: Road Pillar010
+    3300220: Road Pillar011
+    3300222: Road Pillar012
+    3300224: Road Pillar013
+    3300226: Road Pillar014
+    3300228: Road Pillar015
+    3300230: Road Pillar016
+    3300232: Road001
+    3300234: Road002
+    3300236: Road003
+    3300238: Road004
+    3300240: Road005
+    3300242: Screen
+    3300244: Sky Box
+    3300246: Sky Box Entrance
+    3300248: Sky Box Entrance001
+    3300250: Sky Box001
+    3300252: Spectators Stand
+    3300254: Spire
+    3300256: Spire001
+    3300258: Spire002
+    3300260: Spire003
+    3300262: Terrain Divider 003
+    3300264: Terrain Divider 1
+    4300000: Central Floor
+    4300002: Spire
+    4300004: Spire001
+    4300006: Spire002
+    4300008: Spire003
+    4300010: Middle Floor
+    4300012: Sky Box
+    4300014: Sky Box Entrance
+    4300016: Sky Box001
+    4300018: Sky Box Entrance001
+    4300020: Terrain Divider 1
+    4300022: Enviromental Area
+    4300024: Terrain Divider 003
+    4300026: Spectators Stand
+    4300028: City Ground
+    4300030: Building
+    4300032: Building001
+    4300034: Building002
+    4300036: Building003
+    4300038: Elevator Building
+    4300040: Elevator Shaft
+    4300042: Red Force Field
+    4300046: Elevator Building001
+    4300048: Road
+    4300050: Road Pillar
+    4300052: Road Pillar002
+    4300054: Road Pillar003
+    4300056: Building004
+    4300058: Building005
+    4300060: Building006
+    4300062: Building007
+    4300064: Building008
+    4300066: Building009
+    4300068: Building010
+    4300070: Building011
+    4300072: Building012
+    4300074: Building013
+    4300076: Building014
+    4300078: Building015
+    4300080: Building016
+    4300082: Building017
+    4300084: Building018
+    4300086: Building019
+    4300088: Building020
+    4300090: Building021
+    4300092: Building022
+    4300094: Building023
+    4300096: Building024
+    4300098: Building025
+    4300100: Building026
+    4300102: Building027
+    4300104: Building028
+    4300106: Building029
+    4300108: Building030
+    4300110: City Ground001
+    4300112: Building031
+    4300114: Building032
+    4300116: Building033
+    4300118: Building034
+    4300120: Building035
+    4300122: Building036
+    4300124: Building037
+    4300126: Building038
+    4300128: Building039
+    4300130: Building040
+    4300132: Building041
+    4300134: Building042
+    4300136: Building043
+    4300138: Building044
+    4300140: Building045
+    4300142: City Ground002
+    4300144: Building046
+    4300146: Building047
+    4300148: Building048
+    4300150: Building049
+    4300152: Building050
+    4300154: Building051
+    4300156: Building052
+    4300158: Building053
+    4300160: Building054
+    4300162: Building055
+    4300164: Building056
+    4300166: Building057
+    4300168: City Ground003
+    4300170: Building058
+    4300172: Building059
+    4300174: Building060
+    4300176: Building061
+    4300178: Building062
+    4300180: Building063
+    4300182: Building064
+    4300184: Building065
+    4300186: Building066
+    4300188: Building067
+    4300190: Building068
+    4300192: Building069
+    4300194: City Ground004
+    4300196: Building070
+    4300198: Building071
+    4300200: Building072
+    4300202: Building073
+    4300204: Building074
+    4300206: Building075
+    4300208: Building076
+    4300210: Building077
+    4300212: Building078
+    4300214: Building079
+    4300216: Building080
+    4300218: Building081
+    4300220: City Ground005
+    4300222: Road001
+    4300224: Road Pillar004
+    4300226: Road Pillar005
+    4300228: Road Pillar006
+    4300230: City Ground006
+    4300232: Road002
+    4300234: Road Pillar007
+    4300236: Road Pillar008
+    4300238: Road Pillar009
+    4300240: Road Pillar010
+    4300242: Road Pillar011
+    4300244: Road003
+    4300246: City Ground007
+    4300248: Road Pillar012
+    4300250: Road Pillar013
+    4300252: Road Pillar014
+    4300254: Road Pillar015
+    4300256: Road Pillar016
+    4300258: Road004
+    4300260: Road005
+    4300262: Blimp
+    4300264: Screen
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

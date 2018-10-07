@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 14e8b34cf90e1ec44a42b05a4a97739f
+timeCreated: 1534481708
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Central Floor
+    100004: Enviromental Area
+    100006: Middle Floor
+    100008: Sky Box
+    100010: Sky Box Entrance
+    100012: Sky Box Entrance001
+    100014: Sky Box001
+    100016: Spire
+    100018: Spire001
+    100020: Spire002
+    100022: Spire003
+    100024: Terrain Divider 003
+    100026: Terrain Divider 1
+    400000: //RootNode
+    400002: Central Floor
+    400004: Enviromental Area
+    400006: Middle Floor
+    400008: Sky Box
+    400010: Sky Box Entrance
+    400012: Sky Box Entrance001
+    400014: Sky Box001
+    400016: Spire
+    400018: Spire001
+    400020: Spire002
+    400022: Spire003
+    400024: Terrain Divider 003
+    400026: Terrain Divider 1
+    2100000: No Name
+    2100002: 01 - Default
+    2300000: Central Floor
+    2300002: Enviromental Area
+    2300004: Middle Floor
+    2300006: Sky Box
+    2300008: Sky Box Entrance
+    2300010: Sky Box Entrance001
+    2300012: Sky Box001
+    2300014: Spire
+    2300016: Spire001
+    2300018: Spire002
+    2300020: Spire003
+    2300022: Terrain Divider 003
+    2300024: Terrain Divider 1
+    3300000: Central Floor
+    3300002: Enviromental Area
+    3300004: Middle Floor
+    3300006: Sky Box
+    3300008: Sky Box Entrance
+    3300010: Sky Box Entrance001
+    3300012: Sky Box001
+    3300014: Spire
+    3300016: Spire001
+    3300018: Spire002
+    3300020: Spire003
+    3300022: Terrain Divider 003
+    3300024: Terrain Divider 1
+    4300000: Central Floor
+    4300002: Spire
+    4300004: Spire001
+    4300006: Spire002
+    4300008: Spire003
+    4300010: Middle Floor
+    4300012: Sky Box
+    4300014: Sky Box Entrance
+    4300016: Sky Box001
+    4300018: Sky Box Entrance001
+    4300020: Terrain Divider 1
+    4300022: Enviromental Area
+    4300024: Terrain Divider 003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
